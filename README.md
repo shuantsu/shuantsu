@@ -1,5 +1,3 @@
-I like writing computer stuffs
-
-Check my gists too :D
+Check my gists too:
 
 https://gist.github.com/shuantsu
