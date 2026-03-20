@@ -12,4 +12,6 @@ My strengths include deep problem investigation, system-level thinking, careful 
 
 Currently interested in projects involving system architecture, automation, and emerging technologies such as AI-assisted workflows and tools like n8n. I enjoy environments where thoughtful engineering, clear requirements, and well-structured collaboration allow complex problems to be solved properly.
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shuantsu&show_icons=true&theme=radical&rank_icon=github)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shuantsu&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
